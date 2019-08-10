@@ -52,8 +52,10 @@ main {
     display: block;
     float: right;
     line-height: 50px; }
+
   header {
     position: relative; }
+
   nav {
     position: absolute;
     display: none;
@@ -61,12 +63,12 @@ main {
     top: 50px;
     left: 0;
     right: 0; }
+
   nav ul li a,
   nav ul li a:link,
   nav ul li a:visited {
     display: block;
     border-bottom: 1px solid #777; } }
-
 .clearfix:after {
   content: "";
   display: table;
@@ -114,3 +116,4 @@ main {
     display: block;
     width: 100%; } }
 
+/*# sourceMappingURL=main.css.map */
